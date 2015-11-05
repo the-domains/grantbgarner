@@ -1,0 +1,23 @@
+name: grantbgarner
+favicon: null
+layout_spectrum: 0.8697323894593865
+typography_spectrum: 0.15622186264954507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2834664545953274
+  lightness: 0.15573919215239584
+  saturation: 0.6855749052483588
+  rhythmicContrast: 0.820335264550522
+purpose: []
